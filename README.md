@@ -1,47 +1,47 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Shock-o-clock] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Dhamu & Co.]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [Anandhakrishnan] - [SCMS School of engineering and technology]
+- Member 2: [Harigovind] - [SCMS School of engineering and technology]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+This project aim at helping those who are too stubborn to wake up in the morning by screaming at them.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Waking up at early morning
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By screaming at them at random times to make sure that they are conditioned to wake up at the slightest sound
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Embedded C, Python]
 - [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Wire.h, Adafruit_GFX.h, Adafruit_SSD1306.h]
+- [Arduino IDE, VS Code]
 
 For Hardware:
-- [List main components]
+- [ESP 32, OLED display, Breadboard, jumpers]
 - [List specifications]
 - [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[Pre-installed]
 
 # Run
-[commands]
+[Pre-installed]
 
 ### Project Documentation
 For Software:
@@ -81,15 +81,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[[Add your demo video link here](https://drive.google.com/file/d/1Ta5oomaNIgsfWa8P_DA6lTKD5OR-6gxT/view?usp=drive_link)]
+The video shows our project activating at random point in time and screaming at the user.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Anandhakrishnan]: [hardware implementation]
+- [Harigovind]: [software configuration]
 - [Name 3]: [Specific contributions]
 
 ---
